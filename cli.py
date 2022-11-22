@@ -1,3 +1,4 @@
+# cli stands for command line interference
 # from functions import get_todos, write_todos
 import functions
 # if you only import functions you need to do functions.get_todos()
